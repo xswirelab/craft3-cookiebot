@@ -15,7 +15,7 @@ use humandirect\cookiebot\Cookiebot;
  */
 class CookiebotService extends Component
 {
-    private const COOKIE_NAME = 'CookieConsent';
+    const COOKIE_NAME = 'CookieConsent';
 
     /**
      * @var \stdClass|null
